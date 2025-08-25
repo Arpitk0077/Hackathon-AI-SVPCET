@@ -12,4 +12,4 @@ def record(filename="input.wav", duration=5, fs=16000):
 if __name__ == "__main__":
     record()
     #Hi
-hello
+
